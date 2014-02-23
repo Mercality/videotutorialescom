@@ -1,0 +1,271 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mysql",
+				"mysql_connect"
+			],
+			[
+				"text",
+				"textarea	Tag"
+			],
+			[
+				"codigo",
+				"codigocurso"
+			],
+			[
+				"clave",
+				"claveRepUsua"
+			],
+			[
+				"fput",
+				"fputs"
+			],
+			[
+				"if",
+				"if?	$… = ( … ) ? … : …"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"parraf",
+				"parraf1"
+			],
+			[
+				"client",
+				"clientX"
+			],
+			[
+				"empha",
+				"empha"
+			],
+			[
+				"n",
+				"nContList"
+			],
+			[
+				"get",
+				"getElementById"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: del",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 174.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			" import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp/www/cursoPHP/pagina.php",
+		"/C/wamp/www/cursoPHP/pagina3.php",
+		"/C/wamp/www/cursojava/Sublime Text 3.py",
+		"/C/wamp/www/cursoPHP/pagina2.php",
+		"/C/Program Files (x86)/SublimeText3x32/SublimeText3/Data/Packages/Laravel 4 Artisan/Laravel 4 Artisan.sublime-settings",
+		"/C/Program Files (x86)/SublimeText3x32/SublimeText3/Data/Packages/BracketHighlighter/bh_core.sublime-settings",
+		"/C/Program Files (x86)/SublimeText3x32/SublimeText3/Data/Packages/JsFormat/JsFormat.sublime-settings",
+		"/C/Users/RamónEmilio/Downloads/loungehotel/loungehotel/index.html",
+		"/C/Users/RamónEmilio/Downloads/loungehotel/loungehotel/css/style.css",
+		"/C/wamp/www/cursoPHP/insertar1.php",
+		"/C/wamp/www/cursoPHP/insertar.php",
+		"/C/wamp/www/Curso DHTML/pruebaejercicios/funciones.js",
+		"/C/wamp/www/Curso DHTML/pruebaejercicios/estilos.css",
+		"/C/Program Files (x86)/SublimeText3x32/SublimeText3/sublime.py",
+		"/C/Program Files (x86)/SublimeText3x32/SublimeText3/Data/Packages/User/JsFormat.sublime-settings",
+		"/C/wamp/www/Curso DHTML/append element primero/pagina.html",
+		"/C/wamp/www/Curso DHTML/append element primero/funciones.js",
+		"/C/wamp/www/Curso DHTML/incrementarCuenta/funciones.js",
+		"/C/wamp/www/Curso DHTML/fuenteparrafosdediv/pagina.html",
+		"/C/wamp/www/Curso DHTML/fuenteparrafosdediv/funciones.js",
+		"/C/wamp/www/Curso DHTML/pruebaejercicios/pagina.html",
+		"/C/wamp/www/Curso DHTML/cambiarfuente/funciones.js",
+		"/C/wamp/www/Curso DHTML/cambiarfuente/estilos.css",
+		"/C/wamp/www/Curso DHTML/cambiarfuente/pagina.html",
+		"/C/wamp/www/cursojava/la_Vieja.html",
+		"/C/wamp/www/cursojava/redir.html",
+		"/C/wamp/www/cursojava/regEXP coordenadas.html",
+		"/C/wamp/www/cursojava/laviejaenCurso.html",
+		"/C/wamp/www/cursojava/la vieja en curso2.html",
+		"/C/wamp/www/cursojava/la vieja final.html",
+		"/C/wamp/www/cursojava/evento change boton.html",
+		"/C/wamp/www/cursojava/Sublime Text 3",
+		"/C/wamp/www/cursojava/EXPLICACION DEL ALCANCE DE LAS VARIABLES.js",
+		"/C/wamp/www/cursojava/funcion anidada.html",
+		"/C/Program Files (x86)/SublimeText3x32/SublimeText3/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Program Files (x86)/SublimeText3x32/SublimeText3/Data/Packages/JsFormat-master/Default (Windows).sublime-keymap",
+		"/C/Program Files (x86)/SublimeText3x32/SublimeText3/Data/Packages/Default (Windows).sublime-keymap",
+		"/C/wamp/www/cursojava/revertir con sort.html",
+		"/C/wamp/www/cursojava/coordenadas.html",
+		"/C/Program Files (x86)/SublimeText3x32/SublimeText3/Data/Packages/JsFormat/Default (Windows).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			">",
+			"\");",
+			"}\n",
+			"debe",
+			"Master",
+			"{\n",
+			"}"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"project": "videotut.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"cursoPHP\\pagina2.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\wamp\\www\\Curso DHTML\\cambiarfuente\\cambiarfuente.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
